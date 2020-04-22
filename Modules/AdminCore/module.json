@@ -1,0 +1,13 @@
+{
+    "name": "AdminCore",
+    "alias": "admincore",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\AdminCore\\Providers\\AdminCoreServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
